@@ -141,7 +141,7 @@ CompileMode: fast, ShowComplexity: True, Optimize: True
 
 InferLang demonstrates that a small but robust gradually typed language with built-in type inference and complexity tracking can be created using Python. With modular components and a configuration system, the compiler is both fast and extensible. While the current version supports basic expressions, the structure allows future development such as function definitions, recursion analysis, and full IR compilation.
 
-This project bridges theoretical concepts in programming language design and practical compiler implementation, showcasing how academic principles like type systems and complexity analysis can be translated into real-world development tools.
+This project bridges Theoretical / Technical concepts in programming language design and practical compiler implementation, showcasing how academic principles like type systems and complexity analysis can be translated into real-world development tools.
 
 ----------------------------------------------------
 🧩 Planned Extensions (Future Work):
