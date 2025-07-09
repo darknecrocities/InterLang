@@ -17,7 +17,7 @@ The framework is organized for speed, clarity, and future extensibility (LLVM, J
 
 ----------------------------------------------------
 📦 Folder Structure:
-
+```
 App/
 │
 ├── __main__.py         # CLI entry point
@@ -27,7 +27,7 @@ App/
 ├── evaluator.py        # Core evaluator and inference logic
 ├── compiler.py         # Compiles a single line (let/print/expr)
 └── repl.py             # REPL for interaction
-
+```
 ----------------------------------------------------
 🧠 Key Features:
 
